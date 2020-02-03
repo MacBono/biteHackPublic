@@ -1,2 +1,2 @@
 # Suppi
-### Apka do cos tam cos tam
+### App created at BiteHack hackaton
